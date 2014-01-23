@@ -103,10 +103,7 @@ cf_upload: publish
 
 github: publish
 	ghp-import $(OUTPUTDIR)
-	git checkout master
-	git merge gh-pages -q
-	git push origin master
-	git checkout development
+	git push origin gh-pages:master
 	git push origin development
 
 .PHONY: html help clean regenerate serve devserver publish ssh_upload rsync_upload dropbox_upload ftp_upload s3_upload cf_upload github
