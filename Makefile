@@ -104,7 +104,7 @@ cf_upload: publish
 github: publish
 	ghp-import $(OUTPUTDIR)
 	git checkout master
-	git merge gh-pages
+	git merge gh-pages -q
 	git push origin master
 	git checkout development
 
