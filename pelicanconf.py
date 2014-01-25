@@ -4,9 +4,9 @@ from __future__ import unicode_literals
 
 AUTHOR = u'Filipe Ximenes'
 SITENAME = u'Filipe Ximenes'
-SITEURL = 'http://filipeximenes.github.io/'
+SITEURL = ''
 
-TIMEZONE = 'Europe/Paris'
+TIMEZONE = 'America/Recife'
 
 DEFAULT_LANG = u'pt-BR'
 
@@ -27,9 +27,7 @@ SOCIAL = (('Twitter', 'https://twitter.com/xima'),
 
 DEFAULT_PAGINATION = False
 
-GOOGLE_ANALYTICS = 'UA-47455781-1'
-
 # Uncomment following line if you want document-relative URLs when developing
-#RELATIVE_URLS = True
+RELATIVE_URLS = True
 
 THEME = '/Users/filipeximenes/Projects/pelican-themes/tuxlite_zf'
