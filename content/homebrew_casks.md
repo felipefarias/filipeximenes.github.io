@@ -2,7 +2,7 @@ Title: Instalando apps pelo terminal com homebrew casks
 Date: 2014-01-25 17:00
 Category: Mac
 Tags: mac, homebrew, cask
-Slug: pacotes-binarios-com-homebrew-casks
+Slug: instalando-aplicativos-com-homebrew-casks
 Author: Filipe Ximenes
 Summary: Conheça um pouco sobre o homebrew cask, uma ferramenta que permite instalar aplicações GUI no Mac pelo terminal.
 
