@@ -4,7 +4,7 @@ from __future__ import unicode_literals
 
 AUTHOR = u'Filipe Ximenes'
 SITENAME = u'Filipe Ximenes'
-SITEURL = ''
+SITEURL = 'http://filipeximenes.github.io/'
 
 TIMEZONE = 'Europe/Paris'
 
@@ -30,4 +30,4 @@ DEFAULT_PAGINATION = False
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
 
-THEME = '/Users/filipeximenes/Projects/pelican-themes/elegant'
+THEME = '/Users/filipeximenes/Projects/pelican-themes/tuxlite_zf'
