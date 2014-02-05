@@ -33,3 +33,4 @@ RELATIVE_URLS = True
 THEME = '/Users/filipeximenes/Projects/pelican-themes/pelican-bootstrap3'
 
 STATIC_PATHS = ['extra/CNAME']
+EXTRA_PATH_METADATA = {'extra/CNAME': {'path': 'CNAME'},}
